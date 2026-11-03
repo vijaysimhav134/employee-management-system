@@ -48,7 +48,7 @@ EmployeeManagementSystem/
 │
 ├── static/
 │   └── style.css
-│
+│   └── script.js
 └── employees.db
 ```
 
@@ -59,7 +59,7 @@ Note: The SQLite database is generated automatically when the application starts
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/vijaysimhav134/employee-management-system.git
 ```
 
 ### 2. Navigate to the Project Folder
@@ -147,7 +147,7 @@ The application uses an SQLite database with an `employees` table.
 
 ## Author
 
-**Vijay Simha**
+**Vijay Simha Vemulakonda**
 
 B.Tech – Electronics and Communication Engineering
 
