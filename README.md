@@ -93,7 +93,6 @@ python -m pip install -r requirements.txt
 ```bash
 python app.py
 ```
-<img width="1917" height="1038" alt="image" src="https://github.com/user-attachments/assets/b5a419b1-7dbb-4afa-9576-e8017da77389" />
 
 ### 7. Open in Browser
 
@@ -134,7 +133,8 @@ The application uses an SQLite database with an `employees` table.
 
 ## Application Screenshots
 
-Add screenshots of the application interface here.
+<img width="1917" height="1038" alt="image" src="https://github.com/user-attachments/assets/b5a419b1-7dbb-4afa-9576-e8017da77389" />
+
 
 ## Future Improvements
 
