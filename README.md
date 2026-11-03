@@ -1,4 +1,4 @@
-
+<img width="1917" height="1038" alt="image" src="https://github.com/user-attachments/assets/b5a419b1-7dbb-4afa-9576-e8017da77389" />
 # Employee Management System
 
 A web-based Employee Management System developed using Python, Flask, and SQLite. This application allows users to manage employee records through a simple and responsive web interface.
